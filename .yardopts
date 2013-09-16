@@ -1,0 +1,5 @@
+--protected
+--private
+lib/**/*.rb
+-M redcarpet
+-m markdown
