@@ -1,4 +1,5 @@
 # Unbounded
+[![Build Status](https://travis-ci.org/scryptmouse/unbounded.png)](https://travis-ci.org/scryptmouse/unbounded)
 
 TODO: Write a gem description
 
